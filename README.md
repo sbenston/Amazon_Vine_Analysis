@@ -13,7 +13,7 @@ Reviews that were considered for the analysis were filtered from the entire data
 To determine the existence of a positivity bias the percentage of reviews that rated products 5 stars were calculated.
 
 | Reviews in Vine Program | Reviews not in Vine Program |
-| :--- : | :---: |
+| :---: | :---: |
 | ![Vine Program](Resources/vine_stats.png) | ![Non-Vine](Resources/not_vine_stats.png) |
 
 * Total Reviews: 97,839 non-Vine reviews, 1,207 Vine reviews
